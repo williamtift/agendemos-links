@@ -1,8 +1,5 @@
 **Agendemos: Privacy policy**
 
-
-**Privacy Policy**
-
 I, William Tift built the agendemos app as a Free app, and this SERVICE is provided by myself at no cost.
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
